@@ -17,7 +17,7 @@ In my case, I use telegram messenger alot to transfer and receives files from ot
 
 ## How to use
 
-Simply just change this directory to your download folder or any folder that you download apps into and run the code and watch it send all of the apps to it's designated folder
+Simply just change this directory to your download folder or any folder that you download files into and run the code and watch it send all of the files to it's designated folder.
 
 ![image](https://github.com/Ponloe/Auto-File-Sorting/assets/134567590/34f0e35f-b3a4-4ad5-881f-5c2e88799dab)
 
