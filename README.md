@@ -12,12 +12,15 @@ In today's digital age, we are inundated with an ever-increasing amount of digit
 ## How Does It Work?
 The File Sorting System automates the process of organizing files based on predefined rules and criteria set by the user. It provides a structured approach to file management, allowing users to categorize, label, and store files systematically.
 
-### Key Features:
-1. **Customizable Rules:** Users can define rules based on file type, name, size, date, or any other relevant criteria.
-2. **Automated Sorting:** Once rules are set, the system automatically sorts incoming files into designated folders without manual intervention.
-3. **Scheduled Cleanup:** The system can schedule regular file cleanups to remove duplicates, obsolete files, or those that no longer meet the defined criteria.
-4. **Integration:** Compatible with various platforms and devices, ensuring seamless integration with existing workflows and file systems.
-5. **User-Friendly Interface:** Intuitive interface makes it easy for users to set up and manage their file sorting preferences.
+## Use Cases
+In my case, I use telegram messenger alot to transfer and receives files from others. This application can help me sort out in files of Videos, PDFs, Images, Voice Recording, etc. 
+
+## How to use
+
+Simply just change this directory to your download folder or any folder that you download apps into and run the code and watch it send all of the apps to it's designated folder
+
+![image](https://github.com/Ponloe/Auto-File-Sorting/assets/134567590/34f0e35f-b3a4-4ad5-881f-5c2e88799dab)
+
 
 ## Benefits of Using the File Sorting System:
 1. **Efficiency:** Saves time and effort by automating the file organization process, allowing users to focus on more important tasks.
